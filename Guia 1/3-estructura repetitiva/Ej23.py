@@ -27,3 +27,4 @@ while c:
 print("el numero menor es =",pMayor1)
 print("el numero menor es =",pMayor2)
 print("el numero menor es =",pMayor3)
+input()
